@@ -12,7 +12,7 @@ We know that to set up a homepage we write our route like this:
 get '/' do
   "Hello, World!"
 end
-```
+``` 
 
 In this example, when the user submits a GET request to load the homepage (the route `/`), the user will see the text `Hello, World!` in their browser.
 
